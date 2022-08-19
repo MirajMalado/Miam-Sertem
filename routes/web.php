@@ -22,7 +22,7 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
-Route::get('/traiteur/create', [TraiteurController::class, 'create']);
+Route::get('/traiteur/create', [TraiteurController::class, 'create'])->name('traiteur.create');
 Route::post('/traiteur/create', [TraiteurController::class, 'store']);
 Route::get('/traiteur', [TraiteurController::class, 'index'])->name('traiteur.index');
 

@@ -10,6 +10,7 @@ class TraiteurController extends Controller
 {
     public function index()
     {
+        $traiteurs = Traiteur::all();
         return view('traiteur.index');
     }
     public function create()
@@ -19,7 +20,6 @@ class TraiteurController extends Controller
     public function store(Request $request)
     {
         $input = $request->all();
-
         $user = User::create([
             'nom' => $input['nom'],
             'prenom' => $input['prenom'],
@@ -30,9 +30,7 @@ class TraiteurController extends Controller
         Traiteur::create([
             'user_id' => $user->id
         ]);
-        return redirect('/login')->with('flash-message', 'Votre inscription à été bien enregistré');
-
-
-
+        $input->save();
+        return redirect('/traiteur')->with('flash-message', 'Votre inscription à été bien enregistré');
     }
 }
