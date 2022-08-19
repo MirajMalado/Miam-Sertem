@@ -11,4 +11,9 @@ class Traiteur extends Model
     protected $table= 'traiteur';
     protected $primarykey= 'id';
     protected $guarded= ['id'];
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
 }

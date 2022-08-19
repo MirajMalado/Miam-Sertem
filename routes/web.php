@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\TraiteurController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,11 +15,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('layout.accueil');
 });
 
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
-require __DIR__.'/auth.php';
+Route::get('/traiteur/create', [TraiteurController::class, 'create']);
+Route::post('/traiteur/create', [TraiteurController::class, 'store']);
+Route::get('/traiteur', [TraiteurController::class, 'index'])->name('traiteur.index');
+
+require __DIR__ . '/auth.php';
