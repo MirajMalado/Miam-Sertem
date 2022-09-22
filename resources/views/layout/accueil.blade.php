@@ -70,7 +70,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Les Menus</h2>
+          <h2>Les Menus par categories</h2>
           <p><span>Les délices de Maman Yass</span></p>
         </div>
 
