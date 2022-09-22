@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/ok.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -70,10 +70,10 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Les Menus par categories</h2>
+          <h2>Les Menus par semaine</h2>
           <p><span>Les délices de Maman Yass</span></p>
         </div>
-
+<h1><span>Lundi</span></h1>
         <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
 
           <li class="nav-item">
