@@ -71,7 +71,7 @@
 
         <div class="section-header">
           <h2>Les Menus</h2>
-          <p>Les délices de<span>Maman Yass</span></p>
+          <p><span>Les délices de Maman Yass</span></p>
         </div>
 
         <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
@@ -179,68 +179,68 @@
             <div class="row gy-5">
 
               <div class="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-1.png" class="glightbox"><img src="assets/img/menu/menu-item-1.png" class="menu-img img-fluid" alt=""></a>
-                <h4>Magnam Tiste</h4>
+                <a href="assets/img/menu/lottes .jpg" class="glightbox"><img src="assets/img/menu/lottes .jpg" class="menu-img img-fluid" alt=""></a>
+                <h4>Lottes Pannes + Frites</h4>
                 <p class="ingredients">
                   Lorem, deren, trataro, filede, nerada
                 </p>
                 <p class="price">
-                  $5.95
+                  2500 Fcfa
                 </p>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-2.png" class="glightbox"><img src="assets/img/menu/menu-item-2.png" class="menu-img img-fluid" alt=""></a>
-                <h4>Aut Luia</h4>
+                <a href="assets/img/menu/braises.jpg" class="glightbox"><img src="assets/img/menu/braises.jpg" class="menu-img img-fluid" alt=""></a>
+                <h4>Poissons braises</h4>
                 <p class="ingredients">
                   Lorem, deren, trataro, filede, nerada
                 </p>
                 <p class="price">
-                  $14.95
+                  2500 Fcfa
                 </p>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-3.png" class="glightbox"><img src="assets/img/menu/menu-item-3.png" class="menu-img img-fluid" alt=""></a>
-                <h4>Est Eligendi</h4>
+                <a href="assets/img/menu/croquette.jpg" class="glightbox"><img src="assets/img/menu/croquette.jpg" class="menu-img img-fluid" alt=""></a>
+                <h4>Croquette de viande + Sauce</h4>
                 <p class="ingredients">
                   Lorem, deren, trataro, filede, nerada
                 </p>
                 <p class="price">
-                  $8.95
+                  2500 Fcfa
                 </p>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-4.png" class="glightbox"><img src="assets/img/menu/menu-item-4.png" class="menu-img img-fluid" alt=""></a>
-                <h4>Eos Luibusdam</h4>
+                <a href="assets/img/menu/duchesses.jpg" class="glightbox"><img src="assets/img/menu/duchesses.jpg" class="menu-img img-fluid" alt=""></a>
+                <h4>Poulet Pommes duchesses</h4>
                 <p class="ingredients">
                   Lorem, deren, trataro, filede, nerada
                 </p>
                 <p class="price">
-                  $12.95
+                  2500 Fcfa
                 </p>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-5.png" class="glightbox"><img src="assets/img/menu/menu-item-5.png" class="menu-img img-fluid" alt=""></a>
-                <h4>Eos Luibusdam</h4>
+                <a href="assets/img/menu/filet.jpg" class="glightbox"><img src="assets/img/menu/filet.jpg" class="menu-img img-fluid" alt=""></a>
+                <h4>Filet de beauf</h4>
                 <p class="ingredients">
                   Lorem, deren, trataro, filede, nerada
                 </p>
                 <p class="price">
-                  $12.95
+                  2500 Fcfa
                 </p>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-6.png" class="glightbox"><img src="assets/img/menu/menu-item-6.png" class="menu-img img-fluid" alt=""></a>
-                <h4>Laboriosam Direva</h4>
+                <a href="assets/img/menu/couscous.jpg" class="glightbox"><img src="assets/img/menu/couscous.jpg" class="menu-img img-fluid" alt=""></a>
+                <h4>Couscous au Poulet</h4>
                 <p class="ingredients">
                   Lorem, deren, trataro, filede, nerada
                 </p>
                 <p class="price">
-                  $9.95
+                  2500 Fcfa
                 </p>
               </div><!-- Menu Item -->
 
