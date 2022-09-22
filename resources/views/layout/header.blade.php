@@ -10,7 +10,7 @@
 
      <nav id="navbar" class="navbar">
        <ul>
-         <li><a href="#hero">Accueil</a></li>
+         <li><a href="">Accueil</a></li>
          <li><a href="/traiteur/create">Traiteur</a></li>
          <li><a href="#menu">Menu</a></li>
          <li><a href="#events">Employes</a></li>

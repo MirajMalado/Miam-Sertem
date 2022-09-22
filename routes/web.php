@@ -23,7 +23,10 @@ Route::get('/dashboard', function () {
 })->middleware(['auth'])->name('dashboard');
 
 Route::get('/traiteur/create', [TraiteurController::class, 'create'])->name('traiteur.create');
-Route::post('/traiteur/create', [TraiteurController::class, 'store']);
+Route::post('/traiteur/store', [TraiteurController::class, 'store'])->name('traiteur.store');
 Route::get('/traiteur', [TraiteurController::class, 'index'])->name('traiteur.index');
+
+
+//  <!-- Menu Item -->
 
 require __DIR__ . '/auth.php';
