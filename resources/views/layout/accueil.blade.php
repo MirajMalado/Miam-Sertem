@@ -73,7 +73,7 @@
           <h2>Les Menus par semaine</h2>
           <p><span>Les délices de Maman Yass</span></p>
         </div>
-<h1><span>Lundi</span></h1>
+<!-- <h1><span>Lundi</span></h1> -->
         <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
 
           <li class="nav-item">
@@ -109,6 +109,7 @@
                 <p class="price">
                   2000 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -120,6 +121,7 @@
                 <p class="price">
                   2000 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -131,6 +133,7 @@
                 <p class="price">
                   2000 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -142,6 +145,7 @@
                 <p class="price">
                   2000 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -153,6 +157,7 @@
                 <p class="price">
                   2000 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -164,6 +169,7 @@
                 <p class="price">
                   2000 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
             </div>
@@ -187,6 +193,7 @@
                 <p class="price">
                   2500 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -198,6 +205,7 @@
                 <p class="price">
                   2500 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -209,6 +217,7 @@
                 <p class="price">
                   2500 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -220,6 +229,7 @@
                 <p class="price">
                   2500 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -231,6 +241,7 @@
                 <p class="price">
                   2500 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
               <div class="col-lg-4 menu-item">
@@ -242,6 +253,7 @@
                 <p class="price">
                   2500 Fcfa
                 </p>
+                <button type="button" class="btn btn-danger">Commander</button>
               </div><!-- Menu Item -->
 
             </div>
