@@ -34,3 +34,5 @@ class TraiteurController extends Controller
         return redirect('/traiteur')->with('flash-message', 'Votre inscription à été bien enregistré');
     }
 }
+
+

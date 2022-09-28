@@ -22,4 +22,4 @@
      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
    </div>
- </header><!-- End Header -->
+ </header>
